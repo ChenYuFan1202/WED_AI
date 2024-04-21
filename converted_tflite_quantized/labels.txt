@@ -1,0 +1,4 @@
+0 mask
+1 no mask
+2 thumb
+3 nobody
